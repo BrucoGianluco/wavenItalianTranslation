@@ -13,3 +13,10 @@ Italian Translation Waven Ankama
 
 - full translation of the Waven game (https://www.waven-game.com/en/)
 
+
+## Screenshots
+
+![App Screenshot](SHOP.jpg)
+
+
+
